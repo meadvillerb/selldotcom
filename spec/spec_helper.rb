@@ -1,4 +1,4 @@
 require 'rspec'
 require 'selldotcom/version'
 
-include Selldotcom
+include SellDotCom

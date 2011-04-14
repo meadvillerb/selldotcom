@@ -1,5 +1,8 @@
 source :rubygems
 
+gem 'typhoeus', '~> 0.2.4'
+gem 'nokogiri', '~> 1.4.4'
+
 gemspec
 
 group :development do

@@ -1,11 +1,11 @@
-= selldotcom
+selldotcom
+==========
 
 * {Homepage}[http://rubygems.org/gems/selldotcom]
 * {Documentation}[http://rubydoc.info/gems/selldotcom/frames]
 
-== Description
-
-TODO: Description
+Description
+===========
 
 == Features
 
