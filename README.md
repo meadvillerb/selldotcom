@@ -1,19 +1,19 @@
 selldotcom
 ==========
 
-* {Homepage}[http://rubygems.org/gems/selldotcom]
-* {Documentation}[http://rubydoc.info/gems/selldotcom/frames]
+Please don't use me yet!
 
 Description
 ===========
 
-== Features
 
 == Examples
 
   require 'selldotcom'
 
 == Requirements
+  * Typhoeus
+  * Nokogiri
 
 == Install
 
@@ -21,6 +21,6 @@ Description
 
 == Copyright
 
-Copyright (c) 2011 ezkl
+Copyright (c) 2011 Ezekiel Templin
 
 See LICENSE.txt for details.

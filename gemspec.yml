@@ -3,6 +3,7 @@ summary: "Simple interface to Sell.com"
 description: "A very simplistic interface for Sell.com that allows you to perform searches and parse item information from pages."
 license: MIT
 authors: "Ezekiel Templin"
+email: "ezkl@me.com"
 homepage: http://rubygems.org/gems/selldotcom
 has_yard: true
 
