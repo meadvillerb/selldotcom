@@ -7,19 +7,24 @@ Description
 ===========
 
 
-== Examples
+Examples
+========
 
   require 'selldotcom'
 
-== Requirements
+Requirements
+============
+
   * Typhoeus
   * Nokogiri
 
-== Install
+Install
+=======
 
-  $ gem install selldotcom
+  gem install selldotcom
 
-== Copyright
+Copyright
+=========
 
 Copyright (c) 2011 Ezekiel Templin
 
