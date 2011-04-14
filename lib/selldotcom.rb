@@ -2,9 +2,9 @@ require 'typhoeus'
 require 'nokogiri'
 require 'time'
 
-require 'selldotcom/version'
-require 'selldotcom/search'
-require 'selldotcom/page'
+relative_require 'selldotcom/version'
+relative_require 'selldotcom/search'
+relative_require 'selldotcom/page'
 
 module SellDotCom
   def self.is_active?(url)
