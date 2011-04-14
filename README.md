@@ -3,10 +3,6 @@ selldotcom
 
 Please don't use me yet!
 
-Description
-===========
-
-
 Examples
 ========
 
