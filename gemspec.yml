@@ -1,0 +1,11 @@
+name: selldotcom
+summary: "TODO: Summary"
+description: "TODO: Description"
+license: MIT
+authors: ezkl
+homepage: http://rubygems.org/gems/selldotcom
+has_yard: true
+
+development_dependencies:
+  bundler: ~> 1.0.0
+  yard: ~> 0.6.0
