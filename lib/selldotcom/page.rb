@@ -16,7 +16,7 @@ module SellDotCom
        doc       = Nokogiri::HTML(response.body)
        @page[:seller_name] = doc.xpath("//a[@class='member']/u").text
        @page[:price]       = parse_price(doc.xpath("//div[@id='action']//td/div[@style='text-align:center;font-family:verdana,arial,sans-serif;font-size:large;font-weight:bold;color:green;']").text)
-       @page[:description] = doc.xpath("//font[@face='Verdana,Geneva,Arial']/comment()[.=' google_ad_section_start '][1]/../..").text
+       @page[:description] = doc.xpath("//font[@face='Verdana,Geneva,Arial']/comment()[.=' google_ad_section_start '][1]/../..").text.strip
        @page
      end
      
