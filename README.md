@@ -7,8 +7,6 @@ selldotcom
 Description
 ===========
 
-TODO: Description
-
 == Features
 
 == Examples
