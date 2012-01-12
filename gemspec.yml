@@ -8,10 +8,10 @@ homepage: http://rubygems.org/gems/selldotcom
 has_yard: true
 
 runtime_dependencies:
-  typhoeus: ~> 0.2.4
+  typhoeus: ~> 0.3.3
   nokogiri: ~> 1.5.0
 
 development_dependencies:
   bundler: ~> 1.0.0
-  yard: ~> 0.6.0
-  rspec: ~> 2.4
+  yard: ~> 0.7.4
+  rspec: ~> 2.8.0
